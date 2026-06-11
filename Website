@@ -256,7 +256,31 @@
 ‏  margin:40px 0; line-height:1.5; font-weight:300;
 }
 ‏body.ar .story-quote { border-left:none; border-right:2px solid var(--gold); padding:20px 32px 20px 0; }
+<section id="bookmark">
 
+<h2>The Bookmark Project</h2>
+
+<p>
+Every Order Includes A Free Bookmark
+</p>
+
+<div>
+
+NOCTARA #000184
+
+الحقيقة دائمًا أقبح.
+
+</div>
+
+<div>
+
+NOCTARA #000673
+
+ستعود الأمور إلى نصابها عندما تتذكر من تكون.
+
+</div>
+
+</section>
 /* ══════════════════════════════════════
 ‏   PRODUCTS
 ══════════════════════════════════════ */
@@ -398,7 +422,29 @@
 ‏.wa-btn:hover { background:var(--gold-light); transform:translateY(-2px); box-shadow:0 8px 32px rgba(200,162,74,.2); }
 ‏.wa-icon { font-size:18px; }
 ‏.order-note { font-family:'Tenor Sans',sans-serif; font-size:9px; letter-spacing:.3em; color:var(--gold-dim); text-transform:uppercase; margin-top:28px; }
+<section id="payment">
 
+<h2>Payment</h2>
+
+<div>
+
+<h3>Instapay</h3>
+
+<p>Mohamed A.</p>
+
+<p>01551290097</p>
+
+</div>
+
+<div>
+
+<h3>Wallet</h3>
+
+<p>01551290097</p>
+
+</div>
+
+</section>
 /* ══════════════════════════════════════
 ‏   FOOTER
 ══════════════════════════════════════ */
